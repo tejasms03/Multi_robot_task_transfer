@@ -1,0 +1,1 @@
+This repo contains multiple iterations of a task transfer algorithm we tried to test and simulate with multiple state of the art (sota) algorithms to reduce penalties in a hospital map while facilitationg task transfer between multiple robots servicing the hospital.
